@@ -2,7 +2,7 @@
 
 ![Image](https://github.com/user-attachments/assets/3b6f2b02-b884-4985-b821-8f718fee2db0)
 
-# DESCRIPCIÓN DEL GRUPO :tw-1f31f:
+# DESCRIPCIÓN DEL GRUPO tw-1f31f
 
 Somos estudiantes de ingeniería biomédica cursando en segundo ciclo. Esperamos llenarnos de aprendizajes en este curso de innovación en la biomédica, para entender a profundidad el lenguaje de programación y su importancia en la carrera. 
 
