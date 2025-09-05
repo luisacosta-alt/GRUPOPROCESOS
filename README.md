@@ -1,2 +1,1 @@
-#Encabezado GRUPO3
 
