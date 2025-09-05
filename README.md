@@ -2,15 +2,15 @@
 
 ![Image](https://github.com/user-attachments/assets/3b6f2b02-b884-4985-b821-8f718fee2db0)
 
-#DESCRIPCIÓN DEL GRUPO
+# DESCRIPCIÓN DEL GRUPO :tw-1f31f:
 
 Somos estudiantes de ingeniería biomédica cursando en segundo ciclo. Esperamos llenarnos de aprendizajes en este curso de innovación en la biomédica, para entender a profundidad el lenguaje de programación y su importancia en la carrera. 
 
-#INTEGRANTES DEL GRUPO 
+# INTEGRANTES DEL GRUPO :tw-1f465:
 
 ![Image](https://github.com/user-attachments/assets/a921660f-d033-47d5-8276-00ff55ab4f9f)
 
-#DESCRIPCIÓN DE LOS MIEMBROS DEL GRUPO
+# DESCRIPCIÓN DE LOS MIEMBROS DEL GRUPO :tw-1f4e2:
 
 ![Image](https://github.com/user-attachments/assets/c62ab923-a2cb-489c-ab40-4d905c8c7043)
 NOMBRE: Alex Silvera Rios
@@ -38,6 +38,11 @@ EDAD: 19
 HOBBIE: Escuchar música mirar películas 
 MOTIVACIÓN: "Por que estudie: Estoy estudiando esa carrera por el ámbito de investigación en impresión de tejidos y biomateriales."
 ![Image](https://github.com/user-attachments/assets/035d8b8f-cbea-4e2d-b275-b2782a83662a)
+NOMBRE: Pool Andre Sanchez Velasquez 
+EDAD: 17 años
+HOBBIE: Jugar fútbol, escuchar música
+MOTIVACIÓN: "Escogí la carrera porque me interesa el campo de la medicina, y también la ingeniería, todo acerca de prototipos qué puedan ayudar a que las personas lleven una mejor vida."
+
 NOMBRE: Pool Andre Sanchez Velasquez 
 EDAD: 17 años
 HOBBIE: Jugar fútbol, escuchar música
