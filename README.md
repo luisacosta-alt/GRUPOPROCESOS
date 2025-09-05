@@ -71,14 +71,3 @@ EDAD: 17 años
 HOBBIE: Jugar fútbol, escuchar música
 
 MOTIVACIÓN: "Escogí la carrera porque me interesa el campo de la medicina, y también la ingeniería, todo acerca de prototipos qué puedan ayudar a que las personas lleven una mejor vida."
-
-![Image](https://github.com/user-attachments/assets/035d8b8f-cbea-4e2d-b275-b2782a83662a)
-
-NOMBRE: Pool Andre Sanchez Velasquez 
-
-EDAD: 17 años
-
-HOBBIE: Jugar fútbol, escuchar música
-
-MOTIVACIÓN: "Escogí la carrera porque me interesa el campo de la medicina, y también la ingeniería, todo acerca de prototipos qué puedan ayudar a que las personas lleven una mejor vida."
-
