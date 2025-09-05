@@ -2,15 +2,15 @@
 
 ![Image](https://github.com/user-attachments/assets/3b6f2b02-b884-4985-b821-8f718fee2db0)
 
-# DESCRIPCIÓN DEL GRUPO tw-1f31f
+# DESCRIPCIÓN DEL GRUPO 
 
 Somos estudiantes de ingeniería biomédica cursando en segundo ciclo. Esperamos llenarnos de aprendizajes en este curso de innovación en la biomédica, para entender a profundidad el lenguaje de programación y su importancia en la carrera. 
 
-# INTEGRANTES DEL GRUPO :tw-1f465:
+# INTEGRANTES DEL GRUPO 
 
 ![Image](https://github.com/user-attachments/assets/a921660f-d033-47d5-8276-00ff55ab4f9f)
 
-# DESCRIPCIÓN DE LOS MIEMBROS DEL GRUPO :tw-1f4e2:
+# DESCRIPCIÓN DE LOS MIEMBROS DEL GRUPO 
 
 ![Image](https://github.com/user-attachments/assets/c62ab923-a2cb-489c-ab40-4d905c8c7043)
 NOMBRE: Alex Silvera Rios
